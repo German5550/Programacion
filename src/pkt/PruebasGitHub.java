@@ -6,7 +6,7 @@ public class PruebasGitHub {
 		
 		System.out.println("Hola, soy Germán");
 		
-		System.out.println("Hola, buenos días");
+		System.out.println("Hola, buenos días ");
 		
 	}
 
